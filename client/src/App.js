@@ -86,12 +86,8 @@ function App() {
                   </tr>
                 ))}
               </tbody>
-            </table>
-            <div className="text-end mt-3">
-              <h3>Total: <span className="text-danger">Rs. {totalBill}.00</span></h3>
-            </div>
-            <button className="btn btn-primary w-100 mt-3" onClick={() => window.print()}>Print Bill</button>
-          </div>
+            
+
         </div>
       </div>
     </div>
