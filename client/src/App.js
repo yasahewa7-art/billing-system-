@@ -86,7 +86,7 @@ function App() {
                   </tr>
                 ))}
               </tbody>
-            </table>
+            </table>git add .
 
 
 
